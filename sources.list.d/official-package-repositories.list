@@ -1,0 +1,8 @@
+deb https://mirrors.tuna.tsinghua.edu.cn/linuxmint tara main upstream import backport 
+
+deb http://mirrors.ustc.edu.cn/ubuntu bionic main restricted universe multiverse
+deb http://mirrors.ustc.edu.cn/ubuntu bionic-updates main restricted universe multiverse
+deb http://mirrors.ustc.edu.cn/ubuntu bionic-backports main restricted universe multiverse
+
+deb http://security.ubuntu.com/ubuntu/ bionic-security main restricted universe multiverse
+deb http://archive.canonical.com/ubuntu/ bionic partner
